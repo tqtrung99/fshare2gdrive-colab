@@ -18,7 +18,6 @@ const GREEN = '\x1b[32m%s\x1b[0m'
 const RED = '\x1b[31m%s\x1b[0m'
 const CYAN = '\x1b[36m%s\x1b[0m'
 
-// sniffed from fshare ios app
 const USER_AGENT = "Colab-Drive-Trung-7LLR34"
 
 const FSHARE_LOGIN_PATH = '/api/user/login'
